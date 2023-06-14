@@ -1,8 +1,8 @@
 {
-  "name": "react-simplemde-editor",
+  "name": "@aaaahoang123/react-simplemde-editor",
   "homepage": "https://react-simplemde-edtior.netlify.app/",
   "repository": "https://github.com/RIP21/react-simplemde-editor",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "author": "Andrii Los",
   "contributors": [
     {
